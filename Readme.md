@@ -1,0 +1,1 @@
+Olá, este projeto não é só destinado para produtividade em CONCURSOS e VESTIBULARES, mas também para manter seu foco em outros trabalhos.
