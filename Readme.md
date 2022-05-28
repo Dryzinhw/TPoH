@@ -1,1 +1,1 @@
-Olá, este projeto não é só destinado para produtividade em CONCURSOS e VESTIBULARES, mas também para manter seu foco em outros trabalhos.
+Olá, este projeto é destinado para produtividade em CONCURSOS e VESTIBULARES, além disso o intuito dele é manter o seu foco em diversos trabalhos. Use como desejar.
